@@ -1,1 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans&family=Space+Mono:wght@700&display=swap');
+
+.bg{
+    background: linear-gradient(180deg, #B068E9 0%, #6463E7 100%);
+}
+*{
+    font-family: kumbh sans;
+}

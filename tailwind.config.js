@@ -10,7 +10,7 @@ module.exports = {
       'md': '1024px',
       // => @media (min-width: 1024px) { ... }
 
-      'desktop': '1440px',
+      'dp': '1440px',
       // => @media (min-width: 1280px) { ... }
     },
   },
